@@ -7,3 +7,8 @@
 5. layout (float)
 6. layout (flex) - contact-list
 6. layout (grid) - job item
+*** Responsive Web Design (RWD) ***
+
+1. Fluid Layout (max-width)
+2. Flexible images
+3. Midia queries
